@@ -1,5 +1,5 @@
-# Week 11 – Application Migration Lab  
-## Tailwind Traders – Migration Plan
+# Tailwind Traders – Migration Plan
+## Akash Nadackanal Vinod
 
 ---
 
